@@ -1,17 +1,17 @@
 # shadowsocks-libev-for-CentoOS
 由于秋水逸冰网站国内无法访问，所以为有需要的朋友复制发布到github
-
-
+ 
+ 
 CentOS下shadowsocks-libev一键安装脚本
 原文链接：https://teddysun.com/357.html
-
-
+ 
+ 
 本脚本适用环境：
 系统支持：CentOS
 内存要求：≥128M
 日期：2018 年 06 月 01 日
-
-
+ 
+ 
 默认配置：
 服务器端口：自己设定（如不设定，默认从 9000-19999 之间随机生成）
 密码：自己设定（如不设定，默认为 teddysun.com）
