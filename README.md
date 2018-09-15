@@ -1,41 +1,36 @@
 # shadowsocks-libev-for-CentoOS
 由于秋水逸冰网站国内无法访问，所以为有需要的朋友复制发布到github
- 
- 
+<br> 
+<br> 
 CentOS下shadowsocks-libev一键安装脚本
 原文链接：https://teddysun.com/357.html
- 
- 
+<br> <br> 
 本脚本适用环境：
 系统支持：CentOS
 内存要求：≥128M
 日期：2018 年 06 月 01 日
- 
- 
+<br> <br> 
 默认配置：
 服务器端口：自己设定（如不设定，默认从 9000-19999 之间随机生成）
 密码：自己设定（如不设定，默认为 teddysun.com）
 加密方式：自己设定（如不设定，默认为 aes-256-gcm）
-
-
+<br> <br> 
 使用方法：
 使用root用户登录，运行以下命令：
 wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh
 chmod +x shadowsocks-libev.sh
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
-
-
+<br> <br> 
 安装完成后，脚本提示如下：
 Congratulations, Shadowsocks-libev server install completed!
 Your Server IP        :your_server_ip
 Your Server Port      :your_server_port
 Your Password         :your_password
 Your Encryption Method:your_encryption_method
-
+<br> 
 Welcome to visit:https://teddysun.com/357.html
 Enjoy it!
-
-
+<br> 
 卸载方法：
 使用 root 用户登录，运行以下命令：
 ./shadowsocks-libev.sh uninstall
