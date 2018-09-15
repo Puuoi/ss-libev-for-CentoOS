@@ -1,5 +1,5 @@
 # shadowsocks-libev-for-CentoOS
-##由于秋水逸冰网站国内无法访问，所以为有需要的朋友复制发布到github
+## 由于秋水逸冰网站国内无法访问，所以为有需要的朋友复制发布到github
 </br> 
 </br> 
 CentOS下shadowsocks-libev一键安装脚本</br> 
