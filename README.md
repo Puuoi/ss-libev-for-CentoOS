@@ -24,28 +24,28 @@ chmod +x shadowsocks-libev.sh
 ```
 </br> 
 安装完成后，脚本提示如下：</br> 
-```
-Congratulations, Shadowsocks-libev server install completed!
-Your Server IP        :your_server_ip
-Your Server Port      :your_server_port
-Your Password         :your_password 
-Your Encryption Method:your_encryption_method
+
+Congratulations, Shadowsocks-libev server install completed!</br> 
+Your Server IP        :your_server_ip</br> 
+Your Server Port      :your_server_port</br> 
+Your Password         :your_password </br> 
+Your Encryption Method:your_encryption_method</br> 
 </br> 
 Welcome to visit:https://teddysun.com/357.html</br> 
-Enjoy it!
-```
+Enjoy it!</br> 
+
 </br> 
 卸载方法：</br> 
 使用 root 用户登录，运行以下命令：</br> 
-```
-./shadowsocks-libev.sh uninstall
-```
+
+./shadowsocks-libev.sh uninstall</br> 
+
 </br> 
 </br> 
 安装完成后即已后台启动 Shadowsocks-libev ，运行：</br> 
-```
-/etc/init.d/shadowsocks status
-```
+
+/etc/init.d/shadowsocks status</br> 
+
 </br> 
 可以查看进程是否启动。</br> 
 本脚本安装完成后，会将 Shadowsocks-libev 加入开机自启动。</br> 
@@ -60,9 +60,9 @@ Enjoy it!
 </br> 
 特别说明：</br> 
 1、已安装旧版本的 shadowsocks 需要升级的话，需下载本脚本的最新版，直接运行即可自动升级</br>
-``` 
-./shadowsocks-libev.sh
-```
+
+./shadowsocks-libev.sh</br> 
+
 </br> 
 </br> 
 参考链接：</br> 
