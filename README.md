@@ -16,14 +16,17 @@ CentOS下shadowsocks-libev一键安装脚本</br>
 </br> 
 使用方法：</br> 
 使用root用户登录，运行以下命令：</br>
+
 ```
 wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh 
 chmod +x shadowsocks-libev.sh
 ./shadowsocks-libev.sh 2>&1 | tee shadowsocks-libev.log
 ```
+
 </br> 
 安装完成后，脚本提示如下：</br> 
 
+```
 Congratulations, Shadowsocks-libev server install completed!</br> 
 Your Server IP        :your_server_ip</br> 
 Your Server Port      :your_server_port</br> 
@@ -32,6 +35,7 @@ Your Encryption Method:your_encryption_method</br>
 </br> 
 Welcome to visit:https://teddysun.com/357.html</br> 
 Enjoy it!</br> 
+```
 
 </br> 
 卸载方法：</br> 
