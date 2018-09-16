@@ -9,6 +9,12 @@ CentOS下shadowsocks-libev一键安装脚本</br>
 内存要求：≥128M</br> 
 日期：2018 年 06 月 01 日</br> 
 </br> 
+关于本脚本：</br> 
+一键安装 libev 版的 Shadowsocks 最新版本。该版本的特点是内存占用小（600k左右），低 CPU 消耗，甚至可以安装在基于 OpenWRT 的路由器上。</br> 
+</br> 
+</br> 
+Shadowsocks for Windows 客户端下载：</br> 
+https://github.com/shadowsocks/shadowsocks-windows/releases</br> </br> 
 默认配置：</br> 
 服务器端口：自己设定（如不设定，默认从 9000-19999 之间随机生成）</br> 
 密码：自己设定（如不设定，默认为 teddysun.com）</br> 
