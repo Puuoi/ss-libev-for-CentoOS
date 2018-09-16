@@ -15,7 +15,7 @@ CentOS下shadowsocks-libev一键安装脚本</br>
 加密方式：自己设定（如不设定，默认为 aes-256-gcm）</br> 
 </br> 
 使用方法：</br> 
-使用root用户登录，运行以下命令：
+使用root用户登录，运行以下命令：</br>
 ```
 wget --no-check-certificate -O shadowsocks-libev.sh https://raw.githubusercontent.com/teddysun/shadowsocks_install/master/shadowsocks-libev.sh 
 chmod +x shadowsocks-libev.sh
